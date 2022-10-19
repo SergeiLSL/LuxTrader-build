@@ -709,6 +709,10 @@ p:not(:last-child) {
   }
 }
 
+.current-bet-info-lot__currency {
+  font-size: 1.125rem;
+}
+
 .item {
   position: relative;
   padding: 1.875rem 1.875rem 2.5rem 1.875rem;
@@ -2341,7 +2345,7 @@ p:not(:last-child) {
 
   .text-categories__body {
     padding: 0.625rem 0 1.5625rem 0;
-    background: none;
+    background: none !important;
   }
 
   .quotes {
