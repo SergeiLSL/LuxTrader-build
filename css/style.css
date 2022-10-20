@@ -710,7 +710,8 @@ p:not(:last-child) {
 }
 
 .current-bet-info-lot__currency {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
+  font-weight: 600;
 }
 
 .item {
